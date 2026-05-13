@@ -1,8 +1,8 @@
 class Maude < Formula
   desc "Tmux-backed claude -p compatibility shim"
   homepage "https://github.com/dorkitude/maude"
-  url "https://github.com/dorkitude/maude/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "db3b2284e6ee1bc8dfc9548091193ebbcc91b2c451b54d9318749890259185a9"
+  url "https://github.com/dorkitude/maude/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "63e50553f61d131ebbcd1e28ce15fcd70488f3a9bf6dfdd8fc1452c8e9b56025"
   license "MIT"
   head "https://github.com/dorkitude/maude.git", branch: "main"
 
